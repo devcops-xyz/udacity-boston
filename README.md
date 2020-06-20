@@ -7,13 +7,13 @@ This project could be extended to any pre-trained machine learning model, such a
 
 ## Project Tasks
 
--Test your project code using linting
--Complete a Dockerfile to containerize this application
--Deploy your containerized application using Docker and make a prediction
--Improve the log statements in the source code for this application
--Configure Kubernetes and create a Kubernetes cluster
--Deploy a container using Kubernetes and make a prediction
--Upload a complete Github repo with CircleCI to indicate that your code has been tested
+* Test the project code using linting.
+* Complete a Dockerfile to containerize this application.
+* Deploy the containerized application using Docker and make a prediction.
+* Improve the log statements in the source code for this application.
+* Configure Kubernetes and create a Kubernetes cluster.
+* Deploy a container using Kubernetes and make a prediction.
+* Upload a complete Github repo with CircleCI to indicate that your code has been tested.
 
 ## Clone the repository
 ```python
@@ -39,8 +39,10 @@ docker --version
 
 ## Install hadolint & Minikube
 
+```python
 wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
     chmod +x /bin/hadolint
+```
 
 [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
