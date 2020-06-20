@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/khaledalhasan/udacity-boston.svg?style=svg)](https://circleci.com/gh/https://app.circleci.com/pipelines/github/khaledalhasan/udacity-boston/9/workflows/a8cfce97-1953-4d9c-a799-11638b28d68b/jobs/11)
+[![CircleCI](https://circleci.com/gh/khaledalhasan/udacity-boston.svg?style=svg)](https://circleci.com/gh/https://app.circleci.com/pipelines/github/khaledalhasan/udacity-boston)
 # Udacity Cloud DevOps Engineer Nanodegree project: Operationalize a Machine Learning Microservice API
 ## Project Overview
 
