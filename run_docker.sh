@@ -4,10 +4,10 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=boston .
+docker build --tag=udacity-boston .
 # Step 2: 
 # List docker images
 docker image ls
 # Step 3: 
 # Run flask app
-docker run -p 8000:80 boston
+docker run -p 8000:80 udacity-boston
